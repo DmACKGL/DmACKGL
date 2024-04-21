@@ -1,12 +1,5 @@
 ### Hey there 👋
 
-
-- 🔭 I’m currently working on FiveM Related projects.
-- 🌱 I’m currently learning GO, Rust, Lua (Long time friend)
-- 💻 I’m looking to collaborate on OpenSource projects!
-- 💬 Ask me about DevOps, Networking, Linux, Problem-solving.
-- 📫 How to reach me: [Discord GLDmACK#1313](https://discord.com/users/313866383844966400) or [Mail](mailto:francosanllehi@gmail.com)
-
 ![Franco's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmACKGL&theme=monokai)
 
 ![](https://komarev.com/ghpvc/?username=DmACKGL&style=flat-square)
